@@ -1,1 +1,1 @@
-{ "name": "haiku-debug-xmod", "version": "0.1.0", "description": "When you ask to debug, checks docs/DEBUG.md exists and runs the debug through a Haiku subagent." }
+{ "name": "haiku-debug-xmod", "version": "0.1.1", "description": "When you ask to debug, checks docs/DEBUG.md exists and runs the debug through a Haiku subagent." }

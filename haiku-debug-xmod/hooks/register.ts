@@ -1,6 +1,6 @@
 import type { Register } from 'claude-code'
 
-const ASKS_DEBUG = /^s*run debugb/i
+const ASKS_DEBUG = /^\s*run debug\b/i
 const MARK = '[haiku-debug-xmod]'
 
 export const register: Register = on => {
