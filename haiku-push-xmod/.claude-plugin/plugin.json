@@ -1,0 +1,1 @@
+{ "name": "haiku-push-xmod", "version": "0.1.0", "description": "Runs the /xpush skill (commit and push) through a Haiku subagent." }

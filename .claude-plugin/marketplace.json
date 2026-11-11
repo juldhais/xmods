@@ -1,0 +1,8 @@
+{
+  "name": "xmods",
+  "owner": { "name": "juldhais" },
+  "plugins": [
+    { "name": "haiku-push-xmod", "source": "./haiku-push-xmod" },
+    { "name": "haiku-debug-xmod", "source": "./haiku-debug-xmod" }
+  ]
+}
